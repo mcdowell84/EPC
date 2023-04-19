@@ -1,0 +1,9 @@
+{
+    "hpath": "$EPC",
+
+    "env": [
+        {
+            "EPC": "/Users/steven/Documents/epc2023/"
+        }
+    ]
+}
